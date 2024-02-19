@@ -16,14 +16,5 @@ build/
 .*env*
 .idea
 
-*.orig
 
-*.gpx
-*.db
-cmd.py
-flask_app/
-static/
 
-progetto.json
-progetto.csv
-utils/
